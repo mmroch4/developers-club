@@ -7,7 +7,7 @@ export default function Home() {
     <main className="flex h-screen w-full flex-col p-4">
       <Header />
 
-      <section className="flex h-full w-full flex-col items-center justify-center gap-4">
+      <section className="flex flex-1 w-full flex-col items-center justify-center gap-4">
         <a
           href="https://discord.gg/baqyWZd5SN"
           target="_blank"
